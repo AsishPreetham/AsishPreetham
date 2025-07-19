@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @AsishPreetham
-- 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...Machine learning
-- 💞️ I’m looking to collaborate on ... US based companies
 - 📫 How to reach me ... asisgundala@gmail.com
 
 <!---
